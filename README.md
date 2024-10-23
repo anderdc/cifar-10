@@ -3,13 +3,15 @@
 My goal with this project is to develop a loose personal framework for subsequent ML/AI projects and endeavors.
 The CIFAR-10 dataset will be used to:
 
-- perform exploratory data analysis
+- ~~perform exploratory data analysis~~
 - create data processing pipelines
 - train and test classical ML models
 - train and test personally architected neural networks
 - train and test pretrained or pre-architected neural networks
 
-Technology used: python 3.8, pandas, scikit-learn, pytorch, cuda?
+### Technology Used
+
+python 3.8, pandas, scikit-learn, pytorch
 
 ### Setup
 
