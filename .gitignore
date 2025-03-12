@@ -1,2 +1,7 @@
 __pycache__
 venv/
+logs/
+*.log
+data/
+*.ipynb_checkpoints
+/.ipynb_checkpoints/
