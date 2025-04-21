@@ -11,13 +11,13 @@ The CIFAR-10 dataset will be used to:
 
 ### Technology Used
 
-python 3.10, pandas, scikit-learn, pytorch, jupyter lab
+python 3.11, pandas, scikit-learn, pytorch, jupyter lab
 
 ### Setup
 
 ```
 # create virtual environment
-virtualenv -p=/usr/bin/python3.10 ./venv
+virtualenv -p=/usr/bin/python3.11 ./venv
 
 # install packages
 pip install -r requirements.txt
